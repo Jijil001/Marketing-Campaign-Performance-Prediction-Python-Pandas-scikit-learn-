@@ -36,7 +36,9 @@ The objective of this project is to analyze marketing campaign data and develop 
 
 ## Model Visualization
 
-![Machine Learning Workflow](images/ml_pipeline.png)
+![Predicted vs Actual - Random Forest](Conversion_ratio_prediction.png)
+![Mean Absolute Error and R2 Score](Conversion_ratio_prediction2.png)
+
 
 ## Project Insights
 - Campaign category and course type significantly influence predicted conversion rates.
