@@ -1,0 +1,2 @@
+# Marketing-Campaign-Performance-Prediction-Python-Pandas-scikit-learn-
+Built a Random Forest regression model in Python to predict marketing campaign conversion rates. Performed data preprocessing with Pandas, including feature extraction, missing value handling, and one-hot encoding. Evaluated model performance using MAE and R² to analyze the impact of campaign attributes and categories on conversion outcomes.
